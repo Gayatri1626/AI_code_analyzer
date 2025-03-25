@@ -1,7 +1,7 @@
-# Carbon Crunch: Code Quality Analyzer
+# Code Quality Analyzer
 
 ## Overview
-Carbon Crunch is a comprehensive tool for analyzing code quality in Python and JavaScript files, providing detailed insights and recommendations.
+This is a comprehensive tool for analyzing code quality in Python and JavaScript files, providing detailed insights and recommendations.
 
 ## Features
 - Analyze .py, .js, and .jsx files
