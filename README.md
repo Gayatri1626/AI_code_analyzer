@@ -16,10 +16,10 @@ This is a comprehensive tool for analyzing code quality in Python and JavaScript
 - npm
 
 ## Techstack
-Frotend - React(for file uploadand results)
-backend - fastapi
-JS - regex based checks
-github - .yml file(to set workflow)
+- Frotend - React(for file uploadand results)
+- backend - fastapi
+- JS - regex based checks
+- github - .yml file(to set workflow)
 
 ## Quick Start
 
