@@ -15,13 +15,19 @@ Carbon Crunch is a comprehensive tool for analyzing code quality in Python and J
 - pip
 - npm
 
+## Techstack
+Frotend - React(for file uploadand results)
+backend - fastapi
+JS - regex based checks
+github - .yml file(to set workflow)
+
 ## Quick Start
 
 ### Backend Setup
 ```bash
 cd backend
 python -m venv venv
-source venv/bin/activate
+source venv/bin/activate ( optional )
 pip install -r requirements.txt
 uvicorn main:app --reload
 ```
@@ -43,9 +49,18 @@ carbon-crunch/
 │   └── requirements.txt  # Python dependencies
 │
 └── frontend/
+    ├──public/
+       └── index.html
     ├── src/
     │   └── App.js        # React application
-    └── package.json      # Frontend dependencies
+        └── App.css
+        └── Codeanalyzer.js
+        └── index.css
+        └── index.js
+    └── package.json    # Frontend dependencies
+    └── tailwind.config.js
+└── sample_files/
+    └── good_exm.py
 ```
 
 ## How to Use
