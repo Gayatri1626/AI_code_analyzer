@@ -10,8 +10,8 @@ Carbon Crunch is a comprehensive tool for analyzing code quality in Python and J
 - Support for both Python and JavaScript
 
 ## Prerequisites
-- Python 3.9+
-- Node.js 14+
+- Python 3.11
+- Node.js 22.14
 - pip
 - npm
 
